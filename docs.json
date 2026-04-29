@@ -73,7 +73,10 @@
         "hidden": true
       },
       {
-        "tab": "fei'shu"
+        "tab": "fei'shu",
+        "pages": [
+          "untitled-page"
+        ]
       },
       {
         "tab": "photo"
